@@ -16,7 +16,12 @@ Welcome to the **ARCADE**, a collection of classic games you can enjoy right in 
 - **Customizable Wordle**: Choose the length of words (3, 4, or 5 letters) for added challenge.
 - **Classic Games with a Modern Twist**: Enjoy a blend of classic games like Chess and Tetris, built with **Pygame** for a smooth gaming experience.
 
-
+## Technologies Used 
+- **Streamlit**: For creating the web-based interface.
+- **Pygame**: For handling game logic and rendering the games.
+- **Tkinter**: For some UI components (if applicable to your game).
+- **Alpha-Beta Pruning**: Used in Tic Tac Toe for AI decision-making.
+  
 ## Installation 
 
 1. Clone the repository
@@ -25,7 +30,7 @@ Welcome to the **ARCADE**, a collection of classic games you can enjoy right in 
 4. Adjust file paths
 5. Run the app
 
-  
+
 
 
 
