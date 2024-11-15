@@ -24,9 +24,7 @@ Welcome to the **ARCADE**, a collection of classic games you can enjoy right in 
 2. Create a virtual environment (optional but recommended)
 3. Install required dependencies
 4. Adjust file paths
-5. Run the app:
-'''bash
-streamlit run app.py
+5. Run the app
 
   
 
